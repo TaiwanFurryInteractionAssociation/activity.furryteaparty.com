@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{400:function(t,e,n){"use strict";n.r(e);var c={mounted:function(){this.$store.commit("app/setTitle",this.$t("activity.schedule.title"))}},l=n(37),component=Object(l.a)(c,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);e.default=component.exports}}]);

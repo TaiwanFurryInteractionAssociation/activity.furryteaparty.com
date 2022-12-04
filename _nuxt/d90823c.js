@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{398:function(t,n,e){"use strict";e.r(n);var o={mounted:function(){this.$store.commit("app/setTitle",this.$t("activity.qrcode.title"))}},c=e(37),component=Object(c.a)(o,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);n.default=component.exports}}]);
