@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{396:function(t,n,e){"use strict";e.r(n);var c={mounted:function(){this.$store.commit("app/setTitle",this.$t("activity.cafe.title"))}},o=e(37),component=Object(o.a)(c,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);n.default=component.exports}}]);
